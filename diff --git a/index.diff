@@ -1,0 +1,14 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -7,9 +7,9 @@
+     </head>
+ <body>
+     <h2>PROJECTS:</h2>
+     <h3>Wedding</h3>
+-    <a href="./Wedding/Assets/index.html"><img src="./Wedding/Assets/Cake.png.png" height="200"</a>  
++    <a href="./Wedding/index.html"><img src="./Wedding/Assets/Cake.png.png" height="200"></a>  
+     <h3>Sci-Fi Movies</h3>
+     <a href="./public/movie-ranking.html"><img src="./assets/images/movie.png" height="200""></a>
+     <h3>Birthday Invitation</h3>
+     <a href="./public/birthday.html"><img src="./assets/images/birthday-invite.png" height="200"></a><br>
